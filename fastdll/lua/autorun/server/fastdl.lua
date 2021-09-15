@@ -1,4 +1,4 @@
-timer.Simple(0.1, function() resource.AddWorkshopCollection("2546051317") end)
+timer.Simple(0.1, function() resource.AddWorkshopCollection("workshopid") end)
 
 function resource.AddWorkshopCollection( id )
 
